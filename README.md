@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # ML-Project
-Machine Learning project
-=======
+
 # Employee Attrition Prediction
 
 This project aims to build a classification model that predicts whether an employee is likely to leave the company based on HR-related data.
